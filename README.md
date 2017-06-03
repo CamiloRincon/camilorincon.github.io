@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Camilo Rincon Coding Page
 
 You can use the [editor on GitHub](https://github.com/CamiloRincon/camilorincon.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi, my name is Camilo Rincon. i have a degree in Multimedia Engineering and a graduate program in Technology Management, during the last 5 years i 've been working as a front end developer through differents technologies as Javascript ES5, ES6 , ReactJS, AangularJS, Backbone, Underscore, Lodash.
 
 ### Markdown
 
